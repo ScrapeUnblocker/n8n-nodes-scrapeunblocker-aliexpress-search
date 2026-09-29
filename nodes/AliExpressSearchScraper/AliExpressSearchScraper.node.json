@@ -1,0 +1,31 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-aliexpress-search.aliExpressSearchScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-aliexpress-search#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-aliexpress-search#readme"
+			}
+		]
+	},
+	"alias": [
+		"aliexpress",
+		"products",
+		"prices",
+		"dropshipping",
+		"ecommerce",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
